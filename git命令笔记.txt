@@ -1,0 +1,18 @@
+git init              初始化
+git add 文件名      添加到缓存区
+git commit -m ‘’  添加到仓库并添加描述
+
+
+
+rm -rf  文件名    删除文件
+git rm 文件名     删除暂存区文件
+
+
+cat 文件名   查看文件内容
+vi  文件名         修改文件
+Esc+wq退出修改文件
+
+ls                       查看有多少文件
+touch 文件名   创建文件
+
+git status            查看状态
